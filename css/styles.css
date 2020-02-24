@@ -1,8 +1,21 @@
 body  {
-    background-color: lightslategray;
+    background-color: #D8E0BB;
+}
+
+h1  {
+    color: #6B3074;
+}
+
+h3  {
+    color: #7268A6;
+}
+
+p  {
+    color:  #86a3c7
 }
 
 .container {
-    background-color: lightsalmon
+    background-color: #B6CEC7;
   
   }
+
