@@ -17,5 +17,20 @@ p  {
 .container {
     background-color: #B6CEC7;
   
-  }
+}
+
+#python-result  {
+    display: none;
+}
+
+#java-result  {
+    display: none;
+}
+
+#react-result  {
+    display: none;
+}
+
+
+
 
