@@ -6,7 +6,7 @@ By Lucas Trimble
 
 ## Description
 
-This simple webpage demonstrates knowledge of HTML, CSS, Bootstrap, jQuery, and JavaScript  by gathering user input and assigning a programming language to the user based on user input. The questions and answers are irrelevant and are purely to demonstrate my understanding of the concepts.
+This simple webpage demonstrates knowledge of HTML, CSS, Bootstrap, jQuery, and JavaScript  by gathering user input and assigning a programming language to the user based on user input. The questions and answers are irrelevant and are purely demonstrative of my understanding of the concepts.
 
 ## Setup/Installation
 
