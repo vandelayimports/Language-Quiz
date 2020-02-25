@@ -1,37 +1,37 @@
-#Programming Language Quiz
+# Programming Language Quiz
 
 Independant Project II prepared for Epicodus Intro to Programming
 
 By Lucas Trimble
 
-##Description
+## Description
 
 This simple webpage demonstrates knowledge of HTML, CSS, Bootstrap, jQuery, and JavaScript  by gathering user input and assigning a programming language to the user based on user input. The questions and answers are irrelevant and are purely to demonstrate my understanding of the concepts.
 
-##Setup/Installation
+## Setup/Installation
 
-*Clone repository or download the project from GitHub [Click here to access the repository] (https://github.com/vandelayimports/Language-Quiz)
-*Open the webpage 'index.html'
-*Enter name into fillable field
-*Select responses from the dropdown menus
-*Click the results button to generate results
+* Clone repository or download the project from GitHub [Click here to access the repository] (https://github.com/vandelayimports/Language-Quiz)
+* Open the webpage 'index.html'
+* Enter name into fillable field
+* Select responses from the dropdown menus
+* Click the results button to generate results
 
-##Technologies Used
-*HTML
-*CSS
-*JavaScript
-*jQuery
-*Bootstrap
+## Technologies Used
+* HTML
+* CSS
+* JavaScript
+* jQuery
+* Bootstrap
 
-##Known Bugs
+## Known Bugs
 
 No known bugs at this time.
 
-#Support and Contact
+## Support and Contact
 
 Should you encounter any issues or have any questions/comments, please contact support at lucasftrimble@gmail.com
 
-######Legal
+###### Legal
 Copyright (c) 2020 Luke Trimble
 
 Released under MIT License
