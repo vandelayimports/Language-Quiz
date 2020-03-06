@@ -1,6 +1,6 @@
 # Programming Language Quiz
 
-Independant Project II prepared for Epicodus Intro to Programming
+Independent Project II prepared for Epicodus Intro to Programming
 
 By Lucas Trimble
 
@@ -10,7 +10,7 @@ This simple webpage demonstrates knowledge of HTML, CSS, Bootstrap, jQuery, and 
 
 ## Setup/Installation
 
-* Clone repository or download the project from GitHub [Click here to access the repository] (https://github.com/vandelayimports/Language-Quiz)
+* Clone repository or download the project from GitHub [https://github.com/vandelayimports/Language-Quiz](Click here to access the repository)
 * Open the webpage 'index.html'
 * Enter name into fillable field
 * Select responses from the dropdown menus
