@@ -10,7 +10,7 @@ This simple webpage demonstrates knowledge of HTML, CSS, Bootstrap, jQuery, and 
 
 ## Setup/Installation
 
-* Clone repository or download the project from GitHub [https://github.com/vandelayimports/Language-Quiz](Click here to access the repository)
+* Clone repository or download the project from GitHub [https://github.com/vandelayimports/Language-Quiz] (Click here to access the repository)
 * Open the webpage 'index.html'
 * Enter name into fillable field
 * Select responses from the dropdown menus
